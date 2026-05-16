@@ -2,7 +2,7 @@
 
 A full-stack web application for managing projects, assigning tasks, and tracking team progress with role-based access control (Admin/Member).
 
-🌐 **Live Demo:** [https://task-manager-production-e8cc.up.railway.app/](https://task-manager-production-e8cc.up.railway.app/)
+🌐 **Live Demo:** [Task Manager Application](https://task-manager-production-e8cc.up.railway.app/)
 
 ---
 
@@ -153,8 +153,9 @@ This app is deployed on [Railway](https://railway.app) with a managed MySQL data
 | `PORT` | Injected automatically by Railway |
 
 ---
+## 📸 Demo & Screenshots
 
-## 📸 Screenshots
+🎥 **Demo Video:** [Watch here](https://drive.google.com/file/d/1vzyGG8W5MhKGme3yZ_Yv4vUXuCNTlya7/view?usp=sharing)
 
 > Dashboard, Projects, and Tasks pages with role-based UI.
 ![img.png](img.png)
