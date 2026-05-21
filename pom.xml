@@ -135,10 +135,15 @@
 		<plugins>
 
 			<plugin>
-				<groupId>org.springframework.boot</groupId>
+    <groupId>org.springframework.boot</groupId>
 
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
+    <artifactId>spring-boot-maven-plugin</artifactId>
+
+    <configuration>
+        <jvmArguments>-Xmx256m</jvmArguments>
+    </configuration>
+
+</plugin>
 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
